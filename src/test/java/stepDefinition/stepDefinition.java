@@ -15,6 +15,8 @@ public class stepDefinition {
     public void user_is_on_netbanking_landing_page() throws Throwable {
         //code to navigate to login url
     	System.out.println("landing on page");
+    	System.out.println("landing on2 page");
+    	System.out.println("landing on3 page");
     }
 
     @When("^user login into application with username and password$")
